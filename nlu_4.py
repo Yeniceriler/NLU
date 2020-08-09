@@ -44,4 +44,4 @@ if "arama" in text:
     nlu_5.arama()
 
 if "Merhaba" in text:
-    speak("merhaba efendim")
+    speak("merhaba efendim emirlerinizi bekliyorum.")
